@@ -7,9 +7,6 @@ contract VF is ERC721{
 
     uint256 seedId;
     uint256 timeToGetSeed;
- 
-
-
     enum Stages {
         seed,
         sapling,
